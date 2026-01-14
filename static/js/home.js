@@ -1,0 +1,1 @@
+console.log("Using External js! From the static content!")
